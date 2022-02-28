@@ -50,39 +50,24 @@ Config.Shops = {
                 chosenVehicle = 'adder', -- Same as default but is dynamically changed when swapping vehicles
             },
             [2] = {
-                coords = vector4(-48.27, -1101.86, 25.44, 294.5),
+                coords = vector4(-49.74, -1083.14, 27.3, 157.53),
                 defaultVehicle = 'schafter2',
                 chosenVehicle = 'schafter2',
             },
             [3] = {
-                coords = vector4(-39.6, -1096.01, 25.44, 66.5),
+                coords = vector4(-47.56, -1091.67, 27.3, 184.81),
                 defaultVehicle = 'comet2',
                 chosenVehicle = 'comet2',
             },
             [4] = {
-                coords = vector4(-51.21, -1096.77, 25.44, 254.5),
+                coords = vector4(-36.8, -1093.12, 27.3, 118.58),
                 defaultVehicle = 'vigero',
                 chosenVehicle = 'vigero',
             },
             [5] = {
-                coords = vector4(-40.18, -1104.13, 25.44, 338.5),
+                coords = vector4(-42.65, -1101.47, 27.3, 17.62),
                 defaultVehicle = 't20',
                 chosenVehicle = 't20',
-            },
-            [6] = {
-                coords = vector4(-43.31, -1099.02, 25.44, 52.5),
-                defaultVehicle = 'bati',
-                chosenVehicle = 'bati',
-            },
-            [7] = {
-                coords = vector4(-50.66, -1093.05, 25.44, 222.5),
-                defaultVehicle = 'bati',
-                chosenVehicle = 'bati',
-            },
-            [8] = {
-                coords = vector4(-44.28, -1102.47, 25.44, 298.5),
-                defaultVehicle = 'bati',
-                chosenVehicle = 'bati',
             }
         },
     },
